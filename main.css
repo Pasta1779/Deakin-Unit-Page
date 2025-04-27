@@ -19,6 +19,10 @@ p {
   padding: 8px;
 }
 div {
+  background-color: darkcyan;
+  text-align: right;
+} 
+div {
   background-color: blue;
   text-align: right;
 }
