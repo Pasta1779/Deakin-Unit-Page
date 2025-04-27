@@ -13,12 +13,16 @@ h3 {
 }
 p {
   font-size: 14px;
-  font-family: Arial
+  font-family: Arial;
+  background-color: purple;
+  color: white;
+  padding: 8px;
 }
 div {
-  background-color: blue;
+  background-color: darkcyan;
   text-align: right;
-}
+} 
+
 th, td {
 padding: 8px;
 text-align: left;
